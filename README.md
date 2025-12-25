@@ -46,9 +46,17 @@ The trained model supports real-time inference, batch inference on folders of im
 
 The model is able to:
 
-* Detect fire reliably in diverse environments
-* Distinguish hazardous fires from visually mild or controlled fires
-* Reduce false positives compared to simple fire/no-fire approaches
+* ### Detect fire reliably in diverse environments
+
+<img src="https://github.com/user-attachments/assets/bcbfd6e0-3c52-43d1-9a09-5791a5a9f1af" width="300" />
+
+<img src="https://github.com/user-attachments/assets/f0c87bdb-5373-47f3-8215-eeeac9cd2a29" width="300" />
+
+* ### Distinguish hazardous fires from visually mild or controlled fires
+<img src="https://github.com/user-attachments/assets/d4d4d2b9-8744-4adb-9d2c-0a156f9cb973" width="300" />
+<img src="https://github.com/user-attachments/assets/bcde47dd-8439-459a-9bf5-7b0e2ac89cc0" width="300" />
+
+* ### Reduce false positives compared to simple fire/no-fire approaches
 
 Failure cases and ambiguous scenarios are retained for future dataset refinement.
 
