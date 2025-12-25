@@ -1,0 +1,19 @@
+https://universe.roboflow.com/alpha-1/active-threat-fire-detection
+
+If you wish to contribute towards the dataset you can create a pull request and attach a proper YOLOv8s format given below:
+
+dataset/
+├── data.yaml/
+├── README.dataset
+├── README.roboflow
+├── train/
+│   ├── images/
+│   └── labels/
+├── valid/
+│   ├── images/
+│   └── labels/
+└── test/
+    ├── images/
+    └── labels/
+
+(note - the classes being 'HZRD' and 'fire')
