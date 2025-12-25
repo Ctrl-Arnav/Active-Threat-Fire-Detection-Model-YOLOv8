@@ -6,7 +6,7 @@ This project implements an object detection model trained using YOLOv8s for fire
 
 ---
 
-## Motivation
+## Background
 
 Traditionally, heat sensors are used for fire detection in say, fire alarms, but they also have constraints like needing a closed structure or requiring Infrared Cameras. Computer Vision models can be readily deployed on existing cameras, with the main concern being reducing False Positives. 
 
@@ -16,7 +16,9 @@ Most fire detection models treat all fires as equally dangerous, which can lead 
 
 ## Dataset
 
-The dataset used in this project was **collected and labeled manually**. Images were categorized into three classes:
+The dataset used in this project was **collected and labeled manually**.
+Source:- Google Images and Roboflow Universe
+Images were categorized into three classes:
 
 * **fire**: Controlled or contained fires that do not pose immediate risk.
 * **HZRD**: Fires that are visually aggressive, irregular, wide-spreading, or contextually dangerous.
