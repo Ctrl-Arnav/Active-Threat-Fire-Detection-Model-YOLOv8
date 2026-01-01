@@ -4,8 +4,8 @@ If you wish to contribute towards the dataset you can create a pull request and 
 
 dataset/
 ├── data.yaml/
-├── README.dataset
-├── README.roboflow
+├── README.dataset  (optional)
+├── README.roboflow (optional)
 ├── train/
 │   ├── images/
 │   └── labels/
